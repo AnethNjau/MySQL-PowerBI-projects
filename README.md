@@ -2,7 +2,8 @@
 
 HR Employee Distribution Analysis
 
-![Capture 4](https://github.com/user-attachments/assets/321cb9f4-b226-449d-884b-1e2530580566)
+![Capture 4](https://github.com/user-attachments/assets/70db2177-ce32-4cdb-8227-a80814899a6c)
+
 
 This project focuses on analyzing employee distribution data using SQL for data cleaning and analysis, and Power BI for visualization. The dataset includes information on employee demographics, employment length, location, and more. Below is a detailed overview of the project, including the SQL queries used for data cleaning and analysis, and the visualizations created in Power BI.
 
